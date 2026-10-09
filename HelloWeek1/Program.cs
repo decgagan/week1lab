@@ -1,6 +1,6 @@
 using System;
 
-namespace week1._1
+namespace HelloWeek1
 {
     internal class Program
     {
